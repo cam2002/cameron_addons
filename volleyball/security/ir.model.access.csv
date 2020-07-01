@@ -1,0 +1,3 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_volleyball_team,volleyball.team,model_volleyball_team,,1,1,1,1
+access_volleyball_division,volleyball.division,model_volleyball_division,,1,1,1,1
